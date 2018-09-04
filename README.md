@@ -9,4 +9,4 @@ With this project, I aim to answer several questions:
 
 I am also in the process of building a machine learning model to recommend new movies based on how an individual rated previously-seen movies.
 
-With this project, I am learning the fundamentals of data analysis, data analysis, and machine learning in a topic that is of interest to me. I am also learning to use Pandas, matplotlib, and scikit-learn libraries in Python.
+With this project, I am learning the fundamentals of data analysis, data analysis, and machine learning in a topic that is of interest to me. I am also learning to use  Pandas, matplotlib, scikit-learn, and other libraries in Python.
