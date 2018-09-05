@@ -3,9 +3,9 @@ This is an independent project involving movie reviews data compiled by the Movi
 
 With this project, I aim to answer several questions:
 - Are people who rate more movies more/less critical than those who rate fewer movies?
-- Do people's reviews tend to get more/less critical as they continue to rate more movies?
+- Do people tend to be more/less critical in their ratings as they rate more movies?
 - Do average ratings differ significantly between movies of different genres?
-- Do average ratings differe significantly between movies released at different times?
+- Do average ratings differ significantly between movies released at different times?
 
 I am also in the process of building a machine learning model to recommend new movies based on how an individual rated previously-seen movies.
 
